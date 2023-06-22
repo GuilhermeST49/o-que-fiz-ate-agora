@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\bin\Debug\net6.0\Herança - Biblioteca de Classes.exe
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\bin\Debug\net6.0\Herança - Biblioteca de Classes.deps.json
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\bin\Debug\net6.0\Herança - Biblioteca de Classes.runtimeconfig.json
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\bin\Debug\net6.0\Herança - Biblioteca de Classes.dll
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\bin\Debug\net6.0\Herança - Biblioteca de Classes.pdb
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.dll
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\refint\Herança - Biblioteca de Classes.dll
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.pdb
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\Herança - Biblioteca de Classes.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Herança - Biblioteca de Classes\Herança - Biblioteca de Classes\obj\Debug\net6.0\ref\Herança - Biblioteca de Classes.dll

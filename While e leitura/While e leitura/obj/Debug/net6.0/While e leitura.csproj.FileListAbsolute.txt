@@ -1,0 +1,16 @@
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\TextFile1.txt
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\While e leitura.exe
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\While e leitura.deps.json
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\While e leitura.runtimeconfig.json
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\While e leitura.dll
+C:\Users\guilh\source\repos\While e leitura\While e leitura\bin\Debug\net6.0\While e leitura.pdb
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.AssemblyInfo.cs
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.dll
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\refint\While e leitura.dll
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.pdb
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\While e leitura.genruntimeconfig.cache
+C:\Users\guilh\source\repos\While e leitura\While e leitura\obj\Debug\net6.0\ref\While e leitura.dll

@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\bin\Debug\net6.0\Data e tempooo.exe
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\bin\Debug\net6.0\Data e tempooo.deps.json
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\bin\Debug\net6.0\Data e tempooo.runtimeconfig.json
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\bin\Debug\net6.0\Data e tempooo.dll
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\bin\Debug\net6.0\Data e tempooo.pdb
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.dll
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\refint\Data e tempooo.dll
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.pdb
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\Data e tempooo.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Data e tempooo\Data e tempooo\obj\Debug\net6.0\ref\Data e tempooo.dll

@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.exe
+C:\Users\guilh\source\repos\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.deps.json
+C:\Users\guilh\source\repos\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.runtimeconfig.json
+C:\Users\guilh\source\repos\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.dll
+C:\Users\guilh\source\repos\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.pdb
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.dll
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\refint\Variáveis.dll
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.pdb
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Variáveis\Variáveis\obj\Debug\net6.0\ref\Variáveis.dll

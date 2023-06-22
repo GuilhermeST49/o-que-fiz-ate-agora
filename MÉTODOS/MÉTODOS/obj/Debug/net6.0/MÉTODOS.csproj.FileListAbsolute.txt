@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.AssemblyInfo.cs
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\bin\Debug\net6.0\MÉTODOS.exe
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\bin\Debug\net6.0\MÉTODOS.deps.json
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\bin\Debug\net6.0\MÉTODOS.runtimeconfig.json
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\bin\Debug\net6.0\MÉTODOS.dll
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\bin\Debug\net6.0\MÉTODOS.pdb
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.dll
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\refint\MÉTODOS.dll
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.pdb
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\MÉTODOS.genruntimeconfig.cache
+C:\Users\guilh\source\repos\MÉTODOS\MÉTODOS\obj\Debug\net6.0\ref\MÉTODOS.dll

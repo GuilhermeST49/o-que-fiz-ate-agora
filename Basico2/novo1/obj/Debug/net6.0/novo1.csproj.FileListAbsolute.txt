@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\novo1\novo1\bin\Debug\net6.0\novo1.exe
+C:\Users\guilh\source\repos\novo1\novo1\bin\Debug\net6.0\novo1.deps.json
+C:\Users\guilh\source\repos\novo1\novo1\bin\Debug\net6.0\novo1.runtimeconfig.json
+C:\Users\guilh\source\repos\novo1\novo1\bin\Debug\net6.0\novo1.dll
+C:\Users\guilh\source\repos\novo1\novo1\bin\Debug\net6.0\novo1.pdb
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.AssemblyInfo.cs
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.dll
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\refint\novo1.dll
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.pdb
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\novo1.genruntimeconfig.cache
+C:\Users\guilh\source\repos\novo1\novo1\obj\Debug\net6.0\ref\novo1.dll

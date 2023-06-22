@@ -1,0 +1,7 @@
+﻿NOME E IDADE
+Guilherme, 23
+Igor, 24
+Eduardo, 25
+José, 33
+Superman, 59
+Jorginho, 45

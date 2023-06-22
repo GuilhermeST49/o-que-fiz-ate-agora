@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Stringssss\Stringssss\bin\Debug\net6.0\Stringssss.exe
+C:\Users\guilh\source\repos\Stringssss\Stringssss\bin\Debug\net6.0\Stringssss.deps.json
+C:\Users\guilh\source\repos\Stringssss\Stringssss\bin\Debug\net6.0\Stringssss.runtimeconfig.json
+C:\Users\guilh\source\repos\Stringssss\Stringssss\bin\Debug\net6.0\Stringssss.dll
+C:\Users\guilh\source\repos\Stringssss\Stringssss\bin\Debug\net6.0\Stringssss.pdb
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.dll
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\refint\Stringssss.dll
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.pdb
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\Stringssss.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Stringssss\Stringssss\obj\Debug\net6.0\ref\Stringssss.dll
